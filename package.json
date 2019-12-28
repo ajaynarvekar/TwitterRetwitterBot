@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajaynarvekar/TwitterRetwitterBot.git"
+    "url": "https://github.com/ajaynarvekar/TwitterRetwitterBot.git"
   },
   "author": "Ajay Narvekar",
   "license": "ISC",
