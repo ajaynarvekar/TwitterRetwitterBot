@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/Twitter-Bot.git"
+    "url": "git+https://github.com/ajaynarvekar/TwitterRetwitterBot.git"
   },
-  "author": "Brandon Morelli",
+  "author": "Ajay Narvekar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmorelli25/Twitter-Bot/issues"
+    "url": "https://github.com/ajaynarvekar/TwitterRetwitterBot/issues"
   },
-  "homepage": "https://github.com/bmorelli25/Twitter-Bot#readme",
+  "homepage": "https://github.com/ajaynarvekar/TwitterRetwitterBot#README",
   "dependencies": {
     "twitter": "^1.7.1"
   }
